@@ -1,4 +1,4 @@
-[![Website: sayefreyadh.me](https://img.shields.io/badge/Website-sayefreyadh.me-green?style=flat-square&logo=globe&logoColor=white&link=https://sayefreyadh.me/)](https://sayefreyadh.me/)
+[![Website: sayefreyadh.com](https://img.shields.io/badge/Website-sayefreyadh.com-green?style=flat-square&logo=globe&logoColor=white&link=https://sayefreyadh.com/)](https://sayefreyadh.com/)
 [![Linkedin: SayefReyadh](https://img.shields.io/badge/-SayefReyadh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SayefReyadh/)](https://www.linkedin.com/in/SayefReyadh/)
 [![Youtube: SayefReyadh](https://img.shields.io/youtube/channel/subscribers/UCMrXkqBzR71QsTxuwIJalGg?label=Sayef%20Reyadh%20-%20Programming%20Made%20Simple&style=social)](https://youtube.com/sayefreyadh)
 [![Instagram: SayefReyadh](https://img.shields.io/badge/-SayefReyadh-red?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/SayefReyadh/)](https://instagram.com/SayefReyadh)
